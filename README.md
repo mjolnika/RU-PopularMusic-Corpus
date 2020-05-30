@@ -9,14 +9,14 @@
 </ol>
 Другие файлы, которые находятся в репозитории:
 <ol>
-  <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/ALLP.db'>ALLP.db - сам корпус. 1129 песен от 60 исполнителей, 169257 токенов.</a></li>
-  <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/altcorp.db'>altcorp.db - корпус исполнителей в жанре рок, хип-хоп, электроника. 37 исполнителей, 1454 песни, 253861 токен.</a></li>
+  <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/ALLP.db'>ALLP.db</a> - сам корпус. 1129 песен от 60 исполнителей, 169257 токенов.</li>
+  <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/altcorp.db'>altcorp.db</a> - корпус исполнителей в жанре рок, хип-хоп, электроника. 37 исполнителей, 1454 песни, 253861 токен.</li>
   <li><a href='https://github.com/mjolnika/RU-PopularMusic-Corpus/blob/master/write2b.xlsx'>write2b.xlsx</a> - пример данных, которые подаются для заполнения корпуса, если данных из файла с genius.com не хватает</li>
   <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/freqrnc2011.csv'>freqrnc2011.csv</a> - список частотностей слов из <a href='http://dict.ruslang.ru/freq.php'>Нового частотного словаря Национального корпуса русского языка</a> (2011).</li>
   <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/frequency.tsv'>frequency.tsv</a> - список частотностей слов из песенного корпуса (ALLP.db)</li>
   <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/keywords.txt'>keywords.txt</a> - ключевые слова для каждого из исполнителей корпуса, получены при помощи TfidfVectorizer из sklearn</li>
   <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/noun.tsv'>noun.tsv</a> - список существительных с самой высокой частотностью в корпусе</li>
-  <li><a href ='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/semantic_lexicon_rus.usas'>semantic_lexicon_rus.usas - <a href='http://ucrel.lancs.ac.uk/projects/assist/RSTDecember2006.zip'>лексикон</a> отсюда (острожно! ссылка на zip-arcive)</li>
+  <li><a href ='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/semantic_lexicon_rus.usas'>semantic_lexicon_rus.usas</a> - <a href='http://ucrel.lancs.ac.uk/projects/assist/RSTDecember2006.zip'>лексикон</a> отсюда (острожно! ссылка на zip-arcive)</li>
   </ol>
   *<br>
   <a href = 't.me/rupopcorpus'>тг-канал</a> про то, как все было сложно
