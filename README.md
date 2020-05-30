@@ -1,6 +1,6 @@
 # RU-PopCultural-Corpus
 В этот репозиторий я складываю свои попытки собрать Диахронический корпус русскоязычной популярной музыки (1990-2019) и что-то понять о том, что происходило в этих текстах: что казалось авторам актуальным, какие бытовые детали они описывали. В общем, про что пели в эти 30 лет. <br>
-научный руководитель: <a href='https://github.com/danilsko'>DanilSko</a><br>
+Научный руководитель: <a href='https://github.com/danilsko'>DanilSko</a><br><br>
 Весь код находится в трех тетрадях: <br>
 <ol>
 <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/1.%20Scraping%20from%20genius.ipynb'>Scraping from genius.ipynb</a> - код для того, чтобы через библиотеку <a href='https://github.com/johnwmillr/LyricsGenius'> lyricsgenius </a> скачать файлы с genius.com, которые пойдут для построения корпуса.</li>
