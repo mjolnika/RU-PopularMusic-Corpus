@@ -19,5 +19,5 @@
   <li><a href ='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/semantic_lexicon_rus.usas'>semantic_lexicon_rus.usas</a> - <a href='http://ucrel.lancs.ac.uk/projects/assist/RSTDecember2006.zip'>лексикон USAS</a> отсюда (острожно! ссылка на zip-arcive)</li>
   </ol>
   *<br>
-  <a href = 't.me/rupopcorpus'>тг-канал</a> про то, как все было сложно
+  <a href = 'http://t.me/rupopcorpus'>тг-канал</a> про то, как все было сложно
     
