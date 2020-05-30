@@ -17,6 +17,6 @@
   <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/noun.tsv'>noun.tsv</a> - список существительных с самой высокой частотностью в корпусе</li>
   <li><a href ='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/semantic_lexicon_rus.usas'>semantic_lexicon_rus.usas - <a href='http://ucrel.lancs.ac.uk/projects/assist/RSTDecember2006.zip'>лексикон</a> отсюда (острожно! ссылка на zip-arcive)</li>
   </ol><
-  *<br>
-  <a href = 't.me/rupopcorpus'>тг-канал про то, как все было сложно</a>
+  <br>
+  <a href = 't.me/rupopcorpus'>тг-канал</a> про то, как все было сложно
     
