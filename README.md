@@ -7,7 +7,7 @@
 <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/2.%20Mystem%20%2B%20Writing%20to%20base.ipynb'>Mystem + Writing to base.ipynb</a> - код, который создает корпус (реляционную базу данных), и разбирает тексты при помощи морфологического анализатора <a href='https://yandex.ru/dev/mystem/'> mystem</a>.</li>
 <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/3.%20An%20example%20research.ipynb'>An example research.ipynb</a> - пример исследования, которое можно провести при помощи корпуса. В исследовании используется <a href='http://ucrel.lancs.ac.uk/usas/'>система семантического анализа UCREL (USAS)</a>. В работе использована версия 2006 года. Оказалось, что систему усовершенствовали, поэтому лучше использовать <a href='https://github.com/UCREL/Multilingual-USAS/tree/master/Russian'>обновленные</a> данные из репозитория UCREL. Способ остается тем же.</li>
 </ol>
-Другие файлы, которые находятся в репозитории:
+Другие файлы, которые находятся в репозитории:<br>
 <ol>
   <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/ALLP.db'>ALLP.db</a> - сам корпус. 1129 песен от 60 исполнителей, 169257 токенов.</li>
   <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/altcorp.db'>altcorp.db</a> - корпус исполнителей в жанре рок, хип-хоп, электроника. 37 исполнителей, 1454 песни, 253861 токен.</li>
