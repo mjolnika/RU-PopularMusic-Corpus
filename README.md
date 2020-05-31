@@ -17,7 +17,7 @@
   <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/keywords.txt'>keywords.txt</a> - ключевые слова для каждого из исполнителей корпуса, получены при помощи TfidfVectorizer из sklearn</li>
   <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/noun.tsv'>noun.tsv</a> - список существительных с самой высокой частотностью в корпусе</li>
   <li><a href ='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/semantic_lexicon_rus.usas'>semantic_lexicon_rus.usas</a> - лексикон USAS <a href='http://ucrel.lancs.ac.uk/projects/assist/RSTDecember2006.zip'>отсюда</a> (осторожно! ссылка на zip-arcive)</li>
-  <li><a href='https://github.com/mjolnika/RU-PopularMusic-Corpus/blob/master/graphs.pdf'>graphs.pdf</a> - графики к корпусу по которым можно о чем-то подумать</li>
+  <li><a href='https://github.com/mjolnika/RU-PopularMusic-Corpus/blob/master/graphs.pdf'>graphs.pdf</a> - графики к корпусу, по которым можно о чем-то подумать</li>
   </ol>
   *<br>
   <a href = 'http://t.me/rupopcorpus'>тг-канал</a> про то, как все было сложно
