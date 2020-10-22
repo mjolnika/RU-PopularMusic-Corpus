@@ -9,6 +9,7 @@
 </ol>
 Другие файлы, которые находятся в репозитории:<br>
 <ol>
+  <li><a href='https://github.com/mjolnika/RU-PopularMusic-Corpus/blob/master/poster.pdf'>poster.pdf</a> - постер с защиты, такое введение в проект</li>
   <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/ALLP.db'>ALLP.db</a> - сам корпус. 1129 песен от 60 исполнителей, 169257 токенов.</li>
   <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/altcorp.db'>altcorp.db</a> - корпус исполнителей в жанре рок, хип-хоп, электроника. 37 исполнителей, 1454 песни, 253861 токен.</li>
   <li><a href='https://github.com/mjolnika/RU-PopularMusic-Corpus/blob/master/write2b.xlsx'>write2b.xlsx</a> - пример данных, которые подаются для заполнения корпуса, если данных из файла с genius.com не хватает</li>
@@ -20,5 +21,6 @@
   <li><a href='https://github.com/mjolnika/RU-PopularMusic-Corpus/blob/master/graphs.pdf'>graphs.pdf</a> - графики к корпусу, по которым можно о чем-то подумать</li>
   </ol>
   *<br>
+  <a href = 'https://rupop.herokuapp.com/'>сайт корпуса</a> (в разработке, пока доступен поиск по лемме) <br>
   <a href = 'http://t.me/rupopcorpus'>тг-канал</a> про то, как все было сложно
     
