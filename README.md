@@ -6,6 +6,7 @@
 <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/1.%20Scraping%20from%20genius.ipynb'>Scraping from genius.ipynb</a> - код для того, чтобы через библиотеку <a href='https://github.com/johnwmillr/LyricsGenius'> lyricsgenius </a> скачать файлы с genius.com, которые пойдут для построения корпуса.</li>
 <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/2.%20Mystem%20%2B%20Writing%20to%20base.ipynb'>Mystem + Writing to base.ipynb</a> - код, который создает корпус (реляционную базу данных), и разбирает тексты при помощи морфологического анализатора <a href='https://yandex.ru/dev/mystem/'> mystem</a>.</li>
 <li><a href='https://github.com/mjolnika/RU-PopCultural-Corpus/blob/master/3.%20An%20example%20research.ipynb'>An example research.ipynb</a> - пример исследования, которое можно провести при помощи корпуса. В исследовании используется <a href='http://ucrel.lancs.ac.uk/usas/'>система семантического анализа UCREL (USAS)</a>. В работе использована версия 2006 года. Оказалось, что систему усовершенствовали, поэтому лучше использовать <a href='https://github.com/UCREL/Multilingual-USAS/tree/master/Russian'>обновленные</a> данные из репозитория UCREL. Способ остается тем же.</li>
+  <li><a href='https://github.com/mjolnika/RU-PopularMusic-Corpus/blob/master/4.%20%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC.ipynb'>4. Улучшенный поисковый алгоритм</a> - возможности поиска в корпусе</li>
 </ol>
 Другие файлы, которые находятся в репозитории:<br>
 <ol>
@@ -21,6 +22,6 @@
   <li><a href='https://github.com/mjolnika/RU-PopularMusic-Corpus/blob/master/graphs.pdf'>graphs.pdf</a> - графики к корпусу, по которым можно о чем-то подумать</li>
   </ol>
   *<br>
-  <a href = 'https://rupop.herokuapp.com/'>сайт корпуса</a> (в разработке, пока доступен поиск по лемме) <br>
+  <a href = 'https://rupop.herokuapp.com/'>сайт корпуса</a><br>
   <a href = 'http://t.me/rupopcorpus'>тг-канал</a> про то, как все было сложно
     
