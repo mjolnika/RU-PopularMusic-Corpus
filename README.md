@@ -22,6 +22,6 @@
   <li><a href='https://github.com/mjolnika/RU-PopularMusic-Corpus/blob/master/graphs.pdf'>graphs.pdf</a> - графики к корпусу, по которым можно о чем-то подумать</li>
   </ol>
   *<br>
-  <a href = 'https://rupop.herokuapp.com/'>сайт корпуса</a><br>
+  <a href = 'https://linghub.ru/rupop/'>сайт корпуса</a><br>
   <a href = 'http://t.me/rupopcorpus'>тг-канал</a> про то, как все было сложно
     
